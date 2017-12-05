@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Book>
+    <Subject name="Biology">
+      <Lesson name="Cell Theory" chapterIndex="1" lessonDescription="This lesson deals with the various principles in the modern cell theory">
+        <Page title="Introduction to the Cell Theory">
+          <ChapterTitle>
+            <Graphic source="//asset/png/Biologylessons/CellTheory/title/graphics.png" type="PNG"/>
+            <Text text="Introduction to the Modern Cell Theory"/>
+          </ChapterTitle>
+          <ChapterBody>
+            <Paragraph>
+              While examining with a thin slice of cork, Robert Hooke saw that the cork ressembled the structure of a honeycomb consisting of many little compartments. Cork is a subactance which coms from the bark of a tree. This was in the year 1665 when Hooke made
+            </Paragraph>
+          </ChapterBody>
+        </Page>
+      </Lesson>
+    
+    </Subject>
+  </Book>
+</Data>

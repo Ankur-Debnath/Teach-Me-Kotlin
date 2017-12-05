@@ -1,0 +1,42 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="gettingindetails"
+	x:Name="Window"
+	Title="gettingindetails"
+           
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:domain="clr-namespace:MaterialDesignColors.WpfExample.Domain"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:domain1="clr-namespace:MaterialDesignDemo.Domain"
+             mc:Ignorable="d"               
+	Width="1366" Height="768" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- note you only need bring in these extra resource dictionaries when using non-default styles, so only bring them into your controls where the default style is not what you want -->
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.ComboBox.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.TextBox.xaml" />
+
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Image Source="bg[1].png" Stretch="Fill"/>
+        <TextBox Height="55" Margin="537,184,542,0" TextWrapping="Wrap" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Full Name" FontSize="14" Foreground="Black" BorderBrush="Black"  />
+        <TextBox Height="55" Margin="537,244,542,0" TextWrapping="Wrap" VerticalAlignment="Top" materialDesign:HintAssist.Hint="School Name" FontSize="14" Foreground="Black" BorderBrush="Black"  />
+        <TextBox Height="55" Margin="537,304,707,0" TextWrapping="Wrap" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Age" FontSize="14" Foreground="Black" BorderBrush="Black"  />
+        <TextBox Height="55" Margin="673,304,542,0" TextWrapping="Wrap" VerticalAlignment="Top" materialDesign:HintAssist.Hint="Class" FontSize="14" Foreground="Black" BorderBrush="Black"  />
+        <TextBox Height="55" Margin="537,424,542,0" TextWrapping="Wrap" VerticalAlignment="Top" materialDesign:HintAssist.Hint="E-Mail ID" FontSize="14" Foreground="Black" BorderBrush="Black"  />
+        <Label Content="Get your details in" Height="79" Margin="495,66,495,0" VerticalAlignment="Top" Foreground="Black" FontFamily="Segoe UI Light" FontSize="48" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <ComboBox HorizontalAlignment="Left" Height="29" Margin="537,390,0,0" VerticalAlignment="Top" Width="287" Foreground="Black" BorderBrush="Black"/>
+        <Button Style="{StaticResource MaterialDesignFloatingActionButton}" Height="70" Margin="648,549,648,0" VerticalAlignment="Top" Width="70" Background="#FF007ACC" BorderBrush="#FF007ACC">
+            <materialDesign:PackIcon Kind="ArrowRight" Height="33" Width="32"/>
+        </Button>
+    </Grid>
+</Window>

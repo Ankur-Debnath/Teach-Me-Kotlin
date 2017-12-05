@@ -1,0 +1,93 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:transtions="clr-namespace:ProjectApplication"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" xmlns:ControlzEx="clr-namespace:ControlzEx;assembly=MaterialDesignThemes.Wpf" x:Class="chapterThermodynamics"
+    Title="chapterThermodynamics" Height="768" Width="1366" WindowStyle="None" ResizeMode="NoResize" WindowState="Maximized">
+    <ScrollViewer Background="White" Margin="0,0,0,-1344" >
+        <Grid>
+
+            <materialDesign:ColorZone HorizontalAlignment="Left" Height="523" VerticalAlignment="Top" Width="1366" Background="#FF0070BB" materialDesign:ShadowAssist.ShadowDepth="Depth0" Foreground="#DD000000" Margin="0,0,-17,0">
+                <Grid>
+
+                    <materialDesign:ColorZone materialDesign:ShadowAssist.ShadowDepth="Depth2" HorizontalAlignment="Left" Margin="267,57,0,422" VerticalAlignment="Stretch" Width="613" CornerRadius="2" Height="44">
+                        <Grid>
+                            <Button Style="{DynamicResource MaterialDesignToolButton}" Margin="570,9,11,8" Padding="0" Height="Auto" Foreground="Black">
+                                <Button.CacheMode>
+                                    <BitmapCache/>
+                                </Button.CacheMode>
+                                <materialDesign:PackIcon Kind="Magnify" Width="24" Height="26" Opacity="0.7" />
+                            </Button>
+                            <Button materialDesign:RippleAssist.Feedback="White" materialDesign:RippleAssist.RippleSizeMultiplier="1.5" materialDesign:RippleAssist.IsCentered="True" Style="{DynamicResource MaterialDesignToolButton}" Margin="524,7,58,8" Padding="0" Height="Auto" Foreground="Black">
+                                <Button.CacheMode>
+                                    <BitmapCache/>
+                                </Button.CacheMode>
+                                <materialDesign:PackIcon Kind="Microphone" Opacity="0.8" Width="24" Height="26" Foreground="Red" />
+                            </Button>
+                            <ComboBox IsEditable="True" materialDesign:TextFieldAssist.DecorationVisibility="Hidden" materialDesign:HintAssist.Hint="Search for Lessons" HorizontalAlignment="Left" Margin="15,8,0,8" VerticalAlignment="Stretch" Width="472" BorderThickness="0" BorderBrush="{x:Null}" Padding="0" VerticalContentAlignment="Center" FontSize="14">
+                                <ComboBoxItem TextSearch.Text="Biology Lesson 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="School" Height="22" Width="26"/>
+                                        <TextBlock>Biology Lesson 1</TextBlock>
+                                    </StackPanel>
+                                </ComboBoxItem>
+                                <ComboBoxItem TextSearch.Text="Biology Lesson 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="School" Height="22" Width="26"/>
+                                        <TextBlock>Biology Lesson 1</TextBlock>
+                                    </StackPanel>
+                                </ComboBoxItem>
+                                <ComboBoxItem TextSearch.Text="Biology Lesson 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="School" Height="22" Width="26"/>
+                                        <TextBlock>Biology Lesson 1</TextBlock>
+                                    </StackPanel>
+                                </ComboBoxItem>
+                                <ComboBoxItem TextSearch.Text="Biology Lesson 1">
+                                    <StackPanel Orientation="Horizontal">
+                                        <materialDesign:PackIcon Kind="School" Height="22" Width="26"/>
+                                        <TextBlock>Biology Lesson 1</TextBlock>
+                                    </StackPanel>
+                                </ComboBoxItem>
+
+                            </ComboBox>
+                        </Grid>
+                    </materialDesign:ColorZone>
+                    <Grid HorizontalAlignment="Left" Height="342" Margin="0,142,0,0" VerticalAlignment="Top" Width="1366">
+                        <transtions:transition_Demo/>
+                    </Grid>
+                    <Button x:Name="Button" Style="{StaticResource MaterialDesignToolButton}" materialDesign:RippleAssist.Feedback="White" HorizontalAlignment="Left" Height="44" Margin="61,57,0,0" VerticalAlignment="Top" Width="169" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0">
+                        <Grid>
+                            <Label Content="Kendriya Vidalaya" VerticalAlignment="Top" Height="32" Padding="0" Foreground="#DDFFFFFF" FontSize="20"/>
+                            <Label Content="www.kvsanghatan.nic.in" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,24,0,0" Width="159" Height="20" Padding="0" Foreground="#DDFFFFFF"/>
+
+                        </Grid>
+                    </Button>
+                    <Button Style="{DynamicResource MaterialDesignToolButton}" Margin="1261,57,55,422" Padding="0" Height="Auto" Foreground="White" BorderBrush="White" Background="White">
+                        <Button.CacheMode>
+                            <BitmapCache/>
+                        </Button.CacheMode>
+                        <materialDesign:PackIcon Kind="Apps" Width="31" Height="34" Foreground="White" />
+                    </Button>
+                    <Button Style="{DynamicResource MaterialDesignToolButton}" Margin="1199,57,117,422" Padding="0" Height="Auto" Foreground="White" BorderBrush="White" Background="White">
+                        <Button.CacheMode>
+                            <BitmapCache/>
+                        </Button.CacheMode>
+                        <materialDesign:PackIcon Kind="Apps" Width="31" Height="34" Foreground="White" />
+                    </Button>
+                </Grid>
+            </materialDesign:ColorZone>
+            <Grid HorizontalAlignment="Left" Height="400" Margin="0,556,0,0" VerticalAlignment="Top" Width="1349">
+                <transtions:othe_content_Animator/>
+            </Grid>
+
+            <Grid HorizontalAlignment="Left" Height="400" Margin="0,1018,0,0" VerticalAlignment="Top" Width="1349">
+                <transtions:science_Lesson_Content HorizontalAlignment="Left" Height="400" VerticalAlignment="Top" Width="1349"/>
+
+            </Grid>
+
+
+
+        </Grid>
+    </ScrollViewer>
+</Window>

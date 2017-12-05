@@ -1,0 +1,94 @@
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.exe.config
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.exe
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.pdb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.xml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Application.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication_MarkupCompile.cache
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.g.resources
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.Resources.resources
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.vbproj.GenerateResource.Cache
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.exe
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.xml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.pdb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignColors.dll
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignColors.pdb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.vbprojResolveAssemblyReference.cache
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\gettingindetails.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\splashscreen.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Application.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\gettingindetails.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\splashscreen.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication_MarkupCompile.lref
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\sessionDetails.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\sessionDetails.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\chapterThermodynamics.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\chapterThermodynamicsPage1.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\chapterThermodynamics.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\chapterThermodynamicsPage1.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\biologyLesson_index.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\biologyLesson_index.g.vb
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\Assets\Video\celltheorylesson.baml
+C:\Users\complab37\Desktop\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\Assets\Video\celltheorylesson.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.exe.config
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.exe
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.xml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.pdb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.exe
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.pdb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\ProjectApplication.xml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignColors.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignColors.pdb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.vbprojResolveAssemblyReference.cache
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\biologyLesson_index.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\Assets\Video\celltheorylesson.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\chapterThermodynamicsPage1.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Application.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\biologyLesson_index.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\gettingindetails.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\Assets\Video\celltheorylesson.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\lessonPages\chapterThermodynamicsPage1.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\sessionDetails.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Application.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication_MarkupCompile.cache
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication_MarkupCompile.lref
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\gettingindetails.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\sessionDetails.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.g.resources
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.Resources.resources
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.vbproj.GenerateResource.Cache
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\default_Content.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\welcome_Page.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\default_Content.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\transition_Demo.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\welcome_Page.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\transition_Demo.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\science_Lesson_Content.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\othe_content_Animator.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\science_Lesson_Content.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\othe_content_Animator.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\ensglish_lesson_Content.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Transitions\Welcome_window\ensglish_lesson_Content.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Dialogs\WebBrowser.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Dialogs\WebBrowser.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Interop.MediaPlayer.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Interop.WMPDXMLib.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Interop.WMPLib.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication.vbproj.ResolveComReference.cache
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\ProjectApplication_Content.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\credits_Application.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\credits_Application.g.vb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\obj\Debug\Themes\Generic.baml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Core.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Core.xml
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Ankur's Files\Project Application\Project Application\ProjectApplication\ProjectApplication\bin\Debug\Xamarin.Forms.Xaml.xml
